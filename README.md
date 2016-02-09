@@ -2,7 +2,7 @@
 
 > **Magic** is the use of rituals, symbols, actions, gestures and language with the aim of exploiting supernatural forces.
 
-The goal of this exploration is to learn basic programming concepts along with modern web technologies. To try our newly developed skills, we will build interactive games around the economy based on the book “The Cambodian Economy”.
+The goal of this exploration is to learn basic programming concepts along with modern web technologies. To try our newly developed skills, we will build interactive games around the economy, based on the book “The Cambodian Economy”.
 
 ## Schedule
 
