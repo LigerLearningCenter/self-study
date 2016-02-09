@@ -27,7 +27,7 @@ You can learn more about basic concepts behind them reading:
 
 ### 1. Create an account on **GitHub**
 
-Please follow [the tutorial]() and create your personal account on the Github.
+Please follow [the tutorial](materials/github_sign_up_tutorial.pdf) and create your personal account on the Github.
 
 ### 2. Download and install **GitHub Desktop**
 
