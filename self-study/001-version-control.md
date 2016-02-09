@@ -33,7 +33,7 @@ Visit GitHub and download [GitHub Desktop](https://desktop.github.com) for Windo
 
 ### 3. Complete online course on **git**
 
-a) Create an accoun on https://www.codeschool.com
+a) Create an account on https://www.codeschool.com
 
 b) Learn how to use Git by reviewing the basic concepts of  Git version control. Try out this introductory course that was created with GitHub.
 
