@@ -11,8 +11,6 @@
 
 > **Version control** is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
-[1]: http://google.com/        "Version Control Systems"
-
 You can learn more about basic concepts behind them reading:
 *  https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 * https://en.wikipedia.org/wiki/Git
