@@ -38,3 +38,9 @@ a) Create an account on https://www.codeschool.com
 b) Learn how to use Git by reviewing the basic concepts of  Git version control. Try out this introductory course that was created with GitHub.
 
 https://www.codeschool.com/courses/try-git
+
+## Homework
+
+1. Download and install [GitHub Desktop](https://desktop.github.com) for Windows.
+2. Repeat the online course from [Codeschool](https://www.codeschool.com/courses/try-git)
+3. (optional) Read more about the git and version control systems https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
