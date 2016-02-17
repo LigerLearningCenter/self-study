@@ -10,6 +10,8 @@ The goal of this exploration is to learn basic programming concepts along with m
 
 1. [Version Control Systems](self-study/001-version-control.md) – introduction to the version control systems. Why are they important? How developers use them in their everyday work?
 
+2. [Git Branching](http://pcottle.github.io/learnGitBranching/) - version control systems and branching.
+
 ** TO BE CONTINUED... ** next week
 
 ## About the project
