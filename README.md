@@ -12,7 +12,7 @@ The goal of this exploration is to learn basic programming concepts along with m
 
 2. [Git Branching](http://pcottle.github.io/learnGitBranching/) - version control systems and branching.
 
-** TO BE CONTINUED... ** next week
+*Please don't forget to fill* [Attendance list](http://goo.gl/forms/YYpyxn6ifI)!
 
 ## About the project
 
