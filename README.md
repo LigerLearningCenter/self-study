@@ -16,7 +16,7 @@ The goal of this exploration is to learn basic programming concepts along with m
 
 ## Assignments
 
-1. [Basic Functions](assigments/001-basic-function.md)
+1. [Basic Functions](001-basic-function.md)
 
 **Exploration** is one of the projects of [The Liger Charitable Foundation](http://www.ligerlearning.org).
 
