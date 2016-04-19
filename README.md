@@ -14,8 +14,6 @@ The goal of this exploration is to learn basic programming concepts along with m
 
 *Please don't forget to fill* [Attendance list](http://goo.gl/forms/YYpyxn6ifI)!
 
-## https://www.google.com/search?client=safari&rls=en&q=assignments&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=y_QVV7r_AsnC8gfT14HoBw
-
 ## Assignments
 
 1. [Basic Functions](assigments/001-basic-function.md)
